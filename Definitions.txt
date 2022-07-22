@@ -1,0 +1,6 @@
+In pandas Series is the same as list of the data but is as more fuctionality and it is 1D.
+
+Dataframe is the 2D Dimension data or arrange the table form are in the row and columns.
+
+Aggregation means combining the multiple of data into sigle piece.like mean,median.etc
+
